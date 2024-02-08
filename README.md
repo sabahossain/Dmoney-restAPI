@@ -14,3 +14,6 @@ Install Node.js
 
 ## API Documentation-
 https://documenter.getpostman.com/view/30937168/2s9Yyy9KAY
+
+## Bug Report-
+https://docs.google.com/spreadsheets/d/1rQ8k68muHKjwpC6swjztsB7DmslKaexG/edit#gid=914420947
